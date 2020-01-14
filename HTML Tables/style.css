@@ -1,0 +1,33 @@
+h1
+{
+    font-style: italic;
+    margin-left: 150px;
+}
+img
+{
+    height: 200px;
+    width: 200px;
+    float: right;
+    margin-right: 900px;
+    margin-top: -190px;
+}
+table, th, td {
+    border: 1px solid #C0C0C0;
+    
+  }
+  th, td {
+    padding: 1.5px;
+  }
+  table {
+    border-spacing: 0.5px;
+    width: 13%;
+   
+  }
+  th.right
+  {
+    text-align: right;
+  }
+  th.left
+  {
+    text-align: left;
+  }
